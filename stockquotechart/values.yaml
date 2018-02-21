@@ -1,6 +1,7 @@
 # Default values for stockquotechart.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
+myvalue: "stockquote chart"
 replicaCount: 1
 image:
   repository: nginx
