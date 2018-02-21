@@ -1,6 +1,7 @@
 # Default values for portfoliochart.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
+myvalue: "portfolio chart"
 replicaCount: 1
 image:
   repository: nginx

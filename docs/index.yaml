@@ -2,20 +2,29 @@ apiVersion: v1
 entries:
   notificationchart:
   - apiVersion: v1
-    created: 2018-02-21T09:43:07.566657628-08:00
+    created: 2018-02-21T09:49:22.926098025-08:00
     description: A Helm chart for Kubernetes
     digest: 628aa61fd6058571200c803fef50dcde2f41807ce7bf83e1ac635a12e72bf7e0
     name: notificationchart
     urls:
     - https://markcamp-org.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
+  portfoliochart:
+  - apiVersion: v1
+    created: 2018-02-21T09:49:22.926330675-08:00
+    description: A Helm chart for Kubernetes
+    digest: de04f68ef69c34a19423e57432a54a5511a8be46992503df491b3e1b1dd80042
+    name: portfoliochart
+    urls:
+    - https://markcamp-org.github.io/mycharts/portfoliochart-0.1.0.tgz
+    version: 0.1.0
   traderchart:
   - apiVersion: v1
-    created: 2018-02-21T09:43:07.567301823-08:00
+    created: 2018-02-21T09:49:22.926594051-08:00
     description: A Helm chart for Kubernetes
     digest: 3fc7283403d69fa1e4c2881fe9bb7588764f43fe6bc77cc2baf6ecfa66929ab6
     name: traderchart
     urls:
     - https://markcamp-org.github.io/mycharts/traderchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-02-21T09:43:07.566038271-08:00
+generated: 2018-02-21T09:49:22.925670103-08:00
