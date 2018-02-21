@@ -2,47 +2,47 @@ apiVersion: v1
 entries:
   loyaltylevelchart:
   - apiVersion: v1
-    created: 2018-02-21T10:01:14.988604772-08:00
+    created: 2018-02-21T10:03:46.559914471-08:00
     description: A Helm chart for Kubernetes
-    digest: e0a8ced40533b9f93b1ffdf260d54cad9ebb859bc09310af18727b6327aa1600
+    digest: 1aeff70adf435d5eca10b25398a480d553eb893542013baeaf0e4e69d7adc215
     name: loyaltylevelchart
     urls:
-    - https://markcamp-org.github.io/mycharts/loyaltylevelchart-0.1.0.tgz
+    - https://wtistangdev.github.io/mycharts/loyaltylevelchart-0.1.0.tgz
     version: 0.1.0
   notificationchart:
   - apiVersion: v1
-    created: 2018-02-21T10:01:14.988869968-08:00
+    created: 2018-02-21T10:03:46.56043342-08:00
     description: A Helm chart for Kubernetes
     digest: 628aa61fd6058571200c803fef50dcde2f41807ce7bf83e1ac635a12e72bf7e0
     name: notificationchart
     urls:
-    - https://markcamp-org.github.io/mycharts/notificationchart-0.1.0.tgz
+    - https://wtistangdev.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
   portfoliochart:
   - apiVersion: v1
-    created: 2018-02-21T10:01:14.989091498-08:00
+    created: 2018-02-21T10:03:46.561466144-08:00
     description: A Helm chart for Kubernetes
-    digest: de04f68ef69c34a19423e57432a54a5511a8be46992503df491b3e1b1dd80042
+    digest: 1c623c2a0f4b5bac42c54dd0dbacd5783181c966180db6103f16e31a0e9f5a5f
     name: portfoliochart
     urls:
-    - https://markcamp-org.github.io/mycharts/portfoliochart-0.1.0.tgz
+    - https://wtistangdev.github.io/mycharts/portfoliochart-0.1.0.tgz
     version: 0.1.0
   stockquotechart:
   - apiVersion: v1
-    created: 2018-02-21T10:01:14.989384444-08:00
+    created: 2018-02-21T10:03:46.561679074-08:00
     description: A Helm chart for Kubernetes
-    digest: e5b112454c4ddac5411f1ab7955293740a0450f66f4f064ca996319eae5c231d
+    digest: 863e41045ba185c19857e75054acdcd07094a421355912f78137fb98de080ee5
     name: stockquotechart
     urls:
-    - https://markcamp-org.github.io/mycharts/stockquotechart-0.1.0.tgz
+    - https://wtistangdev.github.io/mycharts/stockquotechart-0.1.0.tgz
     version: 0.1.0
   traderchart:
   - apiVersion: v1
-    created: 2018-02-21T10:01:14.989592557-08:00
+    created: 2018-02-21T10:03:46.562274726-08:00
     description: A Helm chart for Kubernetes
-    digest: 3fc7283403d69fa1e4c2881fe9bb7588764f43fe6bc77cc2baf6ecfa66929ab6
+    digest: 2688fdd14eb4dc97ac53312b3767243e6af9ac7945459d217d7b6826bb065465
     name: traderchart
     urls:
-    - https://markcamp-org.github.io/mycharts/traderchart-0.1.0.tgz
+    - https://wtistangdev.github.io/mycharts/traderchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-02-21T10:01:14.988233678-08:00
+generated: 2018-02-21T10:03:46.55844787-08:00
